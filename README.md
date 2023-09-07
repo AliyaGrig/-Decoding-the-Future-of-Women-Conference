@@ -1,4 +1,4 @@
-# -Decoding-the-Future-of-Women-Conference
+# Decoding the Future of Women Conference
 I am honored to have had the #opportunity to speak at the remarkable "Decoding the Future of Women" Conference, organized by FemTech Lab. This extraordinary event, held on 12th June 2023, brought together passionate individuals from various backgrounds to delve into the fascinating intersection of #technology, healthcare, and women's well-being.
 
 It was a privilege to contribute to the thought-provoking discussion surrounding the impact of #artificialintelligence (#AI) on women's health and the consumer #experience. During the panel, we explored the #ethical considerations that arise when integrating AI into healthcare practices, while also highlighting the immense potential it holds for transforming the way women access and experience #healthcare.
